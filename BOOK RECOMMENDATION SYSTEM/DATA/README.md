@@ -1,4 +1,4 @@
-### DATA IS VERY BIG SO KAGGLE LINK OF THE DATASET IS GIVEN BELOW.
+### SINCE THE DATA IS VERY BIG, SO THE KAGGLE LINK FOR DATASET IS GIVEN BELOW.
 
 ##### LINK----> https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
