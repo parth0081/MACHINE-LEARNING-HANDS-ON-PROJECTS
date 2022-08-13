@@ -1,6 +1,6 @@
-A recommender system, or a recommendation system, is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item. They are primarily used in commercial applications.
+A *recommender system* is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item. They are primarily used in commercial applications.
 
-Mainly three types of recommendation systems in machine learning based on filtering are used to suggest product and services to the consumers.¶
+#### Mainly three types of recommendation systems in machine learning based on filtering are used to suggest product and services to the consumers.¶
 
 a) Content Filtering- These recommendation systems suggest similar items based on a particular item. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it.
 
