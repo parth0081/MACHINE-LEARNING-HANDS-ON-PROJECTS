@@ -9,3 +9,4 @@ b) Collaborative Filtering- Here, we try to search for look alike customers and 
 c) Hybrid Filtering- Both Content Filtering & Collaborative Filtering is used for the purpose. you-tube uses this algorithm for their strong recommendation system.
 
 This project is based on Content Based Filtering on TMDB dataset of 5000 movies having columns like overview, cast, crew, keyword, genres, etc.
+I have used the concept of Cosine Similarity here to build the recommendation system which will give the nearest 5 movies based the interest of user.
