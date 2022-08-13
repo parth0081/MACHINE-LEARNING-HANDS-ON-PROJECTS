@@ -11,10 +11,10 @@ ISBN code of the book, Book Title, Book Author, Year of Publication, Image-URL-S
 
 b) Users.csv ---- this includes the data of the users like:
 
-USER ID, Location and AGE
+USER ID, Location and AGE.
 
 
 c) Ratings.csv ---- this includes the book rating information like:
 
-USER ID, ISBN and book-rating
+USER ID, ISBN and book-rating.
 
