@@ -1,1 +1,10 @@
 
+# Book Recommendation System
+
+### Approach- Item based Collaborative Filtering
+
+##### Recommender Systems
+
+
+Recommender systems are used in a lot of commercial applications for recommending products and services to a user based on a user's surfing pattern and purchase history on the business' website. Businesses use recommender systems to recommend products and services that the customer is most likely to purchase and generate more sales and maximize profits. It has been observed in a lot of businesses like Amazon, Netflix, Flipkart and other Ecommerce websites that a big percentage of revenue they generate is from the sales of the products and services recommended to the customers by the designed recommender system. Hence a good recommendation system is very important for any business selling products/services online.
+
