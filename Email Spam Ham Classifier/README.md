@@ -34,7 +34,7 @@ e) Modelling- In this project, i have applied Naive-Bayes Classifier: Gaussian N
 0.9760765550239234-----> MultinomialNB BOW stemming
 
 
-*Lemmatizer*
+*LEMMATIZATION*
 
 0.9736842105263158-----> Mulltinomial Tf-Idf Lemmatizer
 
