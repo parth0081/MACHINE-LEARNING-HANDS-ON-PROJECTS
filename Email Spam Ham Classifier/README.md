@@ -1,7 +1,21 @@
 *Spam emails* also referred to as spam are junk emails. They are sent in bulk for commercial purposes. Spam emails can also be dangerous. It can include malicious links that can infect your computer with malware or phishing attacks.
 
+
+![image](https://user-images.githubusercontent.com/68374336/185189107-3d89b4ae-04c9-4a2d-81b3-bdb3061aa8ae.png)
+
+
+
+
 * This is a project I am working on while learning concepts of data science and machine learning. The goal here is to identify whether an email is spam or ham. We will take a dataset of labeled email messages and apply classification techniques. We can later test the model for accuracy and performance on unclassified email messages. *
 Dataset which is used in this project can be found in the Data folder in this repository.
+
+For this project, we will use python libraries like:-
+
+NLTK (Natural Language Toolkit)
+
+Scikit-Learn
+
+Pandas
 
 I found some problems in reading this file as well because it has problems with the encoding so we have to specify the encoding here as 'Latin-1'. Then we take only those feature which are required and dropping all other features. Only 'email' and 'label' columns were remaining.
 
