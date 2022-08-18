@@ -12,9 +12,9 @@ Quick workflow for any SENTIMENT ANALYSIS:
 ![image](https://user-images.githubusercontent.com/68374336/185290423-f4ba6d1e-ba57-4380-a474-5fafcda68a67.png)
 
 
-Through this project I want to analyse how people had reacted to the new variant of Covid-19: Omicron through a sentiment analysis.
+## Through this project I want to analyse how people had reacted to the new variant of Covid-19: Omicron through a sentiment analysis.
 
-### ABOUT THE DATA
+#### ABOUT THE DATA
 
 
 * THERE
