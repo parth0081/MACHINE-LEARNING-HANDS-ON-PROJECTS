@@ -30,4 +30,4 @@ This model is giving the accuracy score of : 0.807336274764253
 
 This model is giving the accuracy score of : 0.9988753352366122
 
-## But here I have chosen Logistic Regression as my Predictor as it is not giving  the accuracy 'one-sided' as in the case of Random Forest Classifier.
+## But here I have chosen Logistic Regression as my Predictor- since it is not giving  the accuracy 'one-sided' as in the case of Random Forest Classifier.
