@@ -20,12 +20,14 @@ Since its introduction in 2003, T20 has become the star attraction within cricke
 * Model creation and Evaluation: This was the main part of the project, and we used the RandomForestClassifier model. Later we tested this model with the test set for evaluation.
 
 
-In this project, I have two models:
+In this project, I have applied two models:
 
 #### a) Logistic Regression- 
+
 This model is giving the accuracy score of : 0.807336274764253
 
 #### b) Random Forest Classifier-
+
 This model is giving the accuracy score of : 0.9988753352366122
 
-But here I have chosen Logistic Regression as my Predictor as it is not giving  the accuracy 'one-sided' as in the case of Random Forest Classifier.
+## But here I have chosen Logistic Regression as my Predictor as it is not giving  the accuracy 'one-sided' as in the case of Random Forest Classifier.
